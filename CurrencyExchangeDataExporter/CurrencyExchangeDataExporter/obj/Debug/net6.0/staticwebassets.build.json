@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vMtO7i6ONWoayQ1mUPWd0srr6ivcIN70YMgFertATx0=",
+  "Source": "CurrencyExchangeDataExporter",
+  "BasePath": "_content/CurrencyExchangeDataExporter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
